@@ -8,7 +8,7 @@
 
 --Provide a Travel Itinerary Map
 
-#All files can be found in the folders listed below:
+# All files can be found in the folders listed below:
 
 --Vacation_Itinerary
 
